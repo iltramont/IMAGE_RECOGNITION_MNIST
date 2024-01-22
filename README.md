@@ -9,5 +9,5 @@ I wanted to remain stick to the algorithms seen in class:
 File description:
 - Notebook EDA contains a brief exploratory data analysis;
 - Notebooks "KNN_mnist", "LOGISTIC_mnist", "RANDOM_FORSET_mnist" are used for hyperparameter tuning;
-- Notebook "models_mnist", is used to build models with the optimal paramaters, save predictions and also make a speed comparison;
-- Notebook "results" is used to show differences between models.
+- Notebook "Models_mnist", is used to build models with the optimal paramaters, save predictions and also make a speed comparison;
+- Notebook "results_mnist" is used to show differences between models.
