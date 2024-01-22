@@ -5,5 +5,9 @@ I wanted to remain stick to the algorithms seen in class:
 - K-nearest neighbours
 - Logistic regression
 - Random Forest
+  
 File description:
-- Notebooks "KNN_mnist", "LOGISTIC_mnist", ""
+- Notebook EDA contains a brief exploratory data analysis;
+- Notebooks "KNN_mnist", "LOGISTIC_mnist", "RANDOM_FORSET_mnist" are used for hyperparameter tuning;
+- Notebook "models_mnist", is used to build models with the optimal paramaters, save predictions and also make a speed comparison;
+- Notebook "results" is used to show differences between models.
